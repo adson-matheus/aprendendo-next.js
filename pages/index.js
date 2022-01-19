@@ -4,7 +4,9 @@ export default function Home(){
             {/* receita 01 */ }
             <h2>Viva Santana!</h2>
             <a href="/carnaval">Página Carnaval</a><br/>
-            <small>Receita 01</small>
+            <small>Receita 01</small><br/><br/>
+            <a href="/novaPagina">Nova Página - Receita 02</a><br/>
+            <small>Receita 02</small>
         </div>
     )
 }
