@@ -1,9 +1,10 @@
 function Movies({data}){
     return (
-        <div>
+        <div style={{textAlign:'center'}}>
             <div>
                 { data.Search.map( (m) => <div key={m.imdbID}>{m.Title} --- {m.Year}</div>) }
-            </div>
+            </div><br/>
+            <a href="/">Página Inicial</a><br/>
         </div>
     )
 }

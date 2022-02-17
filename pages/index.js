@@ -5,8 +5,18 @@ export default function Home(){
             <h2>Viva Santana!</h2>
             <a href="/carnaval">Página Carnaval</a><br/>
             <small>Receita 01</small><br/><br/>
+
+            {/* receita 02 */ }
             <a href="/novaPagina">Nova Página - Receita 02</a><br/>
-            <small>Receita 02</small>
+            <small>Receita 02</small><br/><br/>
+
+            {/* receita 03 */ }
+            <a href="/movies">Movies Bagdad</a><br/>
+            <small>Receita 03</small><br/><br/>
+
+            {/* receita 04 */ }
+            <a href="/movies2">Movies 2 Spider</a><br/>
+            <small>Receita 04</small>
         </div>
     )
 }
