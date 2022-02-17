@@ -15,8 +15,12 @@ export default function Home(){
             <small>Receita 03</small><br/><br/>
 
             {/* receita 04 */ }
-            <a href="/movies2">Movies 2 Spider</a><br/>
-            <small>Receita 04</small>
+            <a href="/movies2">Movies 2 Spider - useSWR</a><br/>
+            <small>Receita 04</small><br/><br/>
+
+            {/* receita 05 */ }
+            <a href="/movies3">Movies 3 Spider - useSWR e useState</a><br/>
+            <small>Receita 05</small>
         </div>
     )
 }
